@@ -1,7 +1,5 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-004 : Random User App 2 
+#  Random User App 2 
 
 ## Description
 
@@ -49,7 +47,7 @@ Build a Random User App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project, we will be able to;
 
 - Improve coding skills within HTML & CSS & JS & ReactJS.
 
@@ -71,4 +69,4 @@ Build a Random User App using ReactJS.
 
 - You can add additional functionalities and design to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+**<p align="center">&#9786; the end &#9997;</p>**
