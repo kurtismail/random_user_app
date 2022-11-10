@@ -88,14 +88,14 @@ p {
 
 .btn {
   text-transform: uppercase;
-  background: var(--clr-purple-cw);
+  background: green;
   color: var(--clr-white);
   padding: 0.375rem 0.75rem;
   letter-spacing: var(--spacing);
   display: block;
   transition: var(--transition);
   font-size: 0.875rem;
-  border: 2px solid var(--clr-purple-cw);
+  border: 2px solid green;
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   border-radius: var(--radius);
@@ -112,7 +112,7 @@ p {
   min-height: 40vh;
 }
 .bcg-orange {
-  background: var(--clr-orange-cw);
+  background: linear-gradient(167deg, rgb(15, 8, 208),rgb(228, 159, 10));
   text-align: center;
 }
 
@@ -120,10 +120,10 @@ p {
   width: 90vw;
   min-width: 300px;
   max-width: 730px;
-  background: var(--clr-white);
+  background: linear-gradient(167deg, rgb(255, 255, 255),rgb(202, 231, 241));
   margin: 0 auto;
   margin-top: -200px;
-  border-radius: var(--radius);
+  border-radius: 20px;
   position: relative;
   text-align: center;
   padding: 1.5rem;
@@ -207,7 +207,7 @@ p {
 .head-tr {
   background-color: hsl(39, 100%, 69%);
   height: 40px;
-  color: #9e4d8d;
+  color: #b43610;
 }
 
 .table {

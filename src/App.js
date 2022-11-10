@@ -106,6 +106,7 @@ function App() {
             <button
               className="icon"
               data-label="name"
+              type="button"
               onClick={whoName}
               id="name"
             >
